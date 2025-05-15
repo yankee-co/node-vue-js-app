@@ -12,3 +12,4 @@
 
 Група: КВ-22
 
+Звіт: https://docs.google.com/document/d/1AmtQ8sx1dgnlo7u-MWUlCZ7wV1uKE1_oTGnTPuY_ZQQ/edit?tab=t.0
